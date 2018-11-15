@@ -16,7 +16,6 @@ HTML, hyper text markup language, is a stardard language for creating a webpage.
 ## Prevalent Technologies Used
 
  - HTML
- - CSS
  
 
 ### Other Technologies Used
@@ -26,8 +25,6 @@ Technologies and Tools Used:
 ```
 Languages:
 
-- CSS
-- SASS
 - HTML
 
 ```
@@ -49,4 +46,4 @@ Tools:
 
 ## Contributors
 
-Nate to the D O and double G - 201 8
+Tabile Khume - 2018
