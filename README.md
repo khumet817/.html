@@ -3,17 +3,15 @@ Learning hyper text markup language
 
 # Intro To HTML
 
-HTML, an Introduction to it's make up...
-
-HTML is a ....
+HTML, hyper text markup language, is a stardard language for creating a webpage.
 
 ## Setting up your workspace
 
-- Open your terminal and launch the command 
+- Open Git Bash and launch the command 
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://nateb228.github.io/html/index.html
+- https://khumet817.github.io/.html/index.html
 
 ## Prevalent Technologies Used
 
